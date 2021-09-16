@@ -63,7 +63,7 @@ function App() {
               {/* <Col span={16} pull={8}> */}
               <Col xs={24} xl={14} xxl={16}>
                 <div className="world-new">
-                  <img src="./img/new-more.png" className="world__img" />
+                  <img src="img/new-more.png" className="world__img" />
                   <div className="world-new__content">
                     <Title className="text-white level2-heading" level={2}>
                       {" "}
@@ -160,7 +160,7 @@ function App() {
                 <Col sm={24} md={12} lg={8}>
                   <div className="col-trending">
                     <div className="img-content">
-                      <img src="./img/one.png" />
+                      <img src="img/one.png" />
                     </div>
                     <div className="text-content">
                       <h3 className="text-content__title">
@@ -182,7 +182,7 @@ function App() {
                   {" "}
                   <div className="col-trending">
                     <div className="img-content">
-                      <img src="./img/annie.png" />
+                      <img src="img/annie.png" />
                     </div>
                     <div className="text-content">
                       <h3 className="text-content__title">
@@ -204,7 +204,7 @@ function App() {
                   {" "}
                   <div className="col-trending">
                     <div className="img-content">
-                      <img src="./img/carlos.png" />
+                      <img src="img/carlos.png" />
                     </div>
                     <div className="text-content">
                       <h3 className="text-content__title">
@@ -242,7 +242,7 @@ function App() {
                 <Col xs={24} xl={16} xxl={16}>
                   {" "}
                   <div className="img-city">
-                    <img src="./img/image.png" />
+                    <img src="img/image.png" />
                     <Title className="title-city" level={3}>
                       City
                     </Title>
@@ -261,7 +261,7 @@ function App() {
                     </div>
                   </div>
                   <div className="img-city">
-                    <img src="./img/image.png" />
+                    <img src="img/image.png" />
                     <Title className="title-city" level={3}>
                       City
                     </Title>
@@ -285,7 +285,7 @@ function App() {
                     <Col xs={24} xl={24}>
                       {" "}
                       <div className="happending-ringht">
-                        <img src="../img/gau.png" />
+                        <img src="img/gau.png" />
                         <Title className="small-title">Smaill title</Title>
                         <div className="time">
                           {" "}
@@ -299,7 +299,7 @@ function App() {
                     <Col xs={24} xl={24}>
                       {" "}
                       <div className="happending-ringht">
-                        <img src="../img/gau.png" />
+                        <img src="img/gau.png" />
                         <Title className="small-title">Smaill title</Title>
                         <div className="time">
                           {" "}
@@ -312,7 +312,7 @@ function App() {
                     </Col>
                     <Col xs={24} xl={24}>
                       <div className="happending-ringht">
-                        <img src="../img/gau.png" />
+                        <img src="img/gau.png" />
                         <Title className="small-title">Smaill title</Title>
                         <div className="time">
                           {" "}
