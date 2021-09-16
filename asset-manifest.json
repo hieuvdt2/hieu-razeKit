@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/hieu-razeKit/static/css/main.c2bb2075.chunk.css",
+    "main.js": "/hieu-razeKit/static/js/main.dcc8a8f4.chunk.js",
+    "main.js.map": "/hieu-razeKit/static/js/main.dcc8a8f4.chunk.js.map",
+    "runtime-main.js": "/hieu-razeKit/static/js/runtime-main.08d0fa53.js",
+    "runtime-main.js.map": "/hieu-razeKit/static/js/runtime-main.08d0fa53.js.map",
+    "static/css/2.786ae0dd.chunk.css": "/hieu-razeKit/static/css/2.786ae0dd.chunk.css",
+    "static/js/2.45f6f474.chunk.js": "/hieu-razeKit/static/js/2.45f6f474.chunk.js",
+    "static/js/2.45f6f474.chunk.js.map": "/hieu-razeKit/static/js/2.45f6f474.chunk.js.map",
+    "static/js/3.85faada1.chunk.js": "/hieu-razeKit/static/js/3.85faada1.chunk.js",
+    "static/js/3.85faada1.chunk.js.map": "/hieu-razeKit/static/js/3.85faada1.chunk.js.map",
+    "index.html": "/hieu-razeKit/index.html",
+    "static/css/2.786ae0dd.chunk.css.map": "/hieu-razeKit/static/css/2.786ae0dd.chunk.css.map",
+    "static/css/main.c2bb2075.chunk.css.map": "/hieu-razeKit/static/css/main.c2bb2075.chunk.css.map",
+    "static/js/2.45f6f474.chunk.js.LICENSE.txt": "/hieu-razeKit/static/js/2.45f6f474.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.08d0fa53.js",
+    "static/css/2.786ae0dd.chunk.css",
+    "static/js/2.45f6f474.chunk.js",
+    "static/css/main.c2bb2075.chunk.css",
+    "static/js/main.dcc8a8f4.chunk.js"
+  ]
+}
